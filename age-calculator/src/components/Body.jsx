@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import picture from "../assets/icon-arrow.png"
-import '/Users/decagn/Desktop/age-calculator-vite/age-calculator/age-calculator/src/components/body.css'
+import '../components/body.css'
 
 export default function Body() {
 

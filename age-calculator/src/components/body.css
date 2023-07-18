@@ -44,6 +44,13 @@
 }
 
 .error::after{
+    content: "Enter a valid date";
+    font-size: 8px;
+    color: red;
+    font-family: "Poppins";
+}
+
+.error::after{
     content: 'Must be a valid day';
     color: red;
     font-size: 10px;
