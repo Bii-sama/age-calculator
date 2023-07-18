@@ -8,6 +8,8 @@
     border-bottom-right-radius: 150px;
     padding: 40px;
     font-family: "Poppins";
+    text-align: left;
+    margin: auto;
 }
 
 .input{
