@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import picture from "../assets/icon-arrow.png"
-import '../components/body.css'
+import './body.css'
 
 export default function Body() {
 
